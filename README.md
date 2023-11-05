@@ -82,14 +82,11 @@ The project structure is organized as follows:
 
 ## Results
 
-## Results
-
 The lipophilicity prediction model has been developed and evaluated with the following results:
 
 - **Average Cross-Validation Score (10 Folds):** 0.9478667778543899
 - **R-squared (R^2) Score:** 0.9566719900592656
 - **Root Mean Squared Error (RMSE):** 0.42224880326842185
-
 
 
 Further analysis and insights can be found in the project's Jupyter Notebook and related scripts in the repository.
